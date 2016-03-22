@@ -5,5 +5,6 @@ Setup as directed in git repo NTBlok/newProject_setupNotes:
 
     git clone https://github.com/NTBlok/newProject_setupNotes.git
 
-![alt text](https://github.com/NTBlok/pixi_in_django/pixi_in_django_screenshot.png)
+
+<img src="pixi_in_django_screenshot.png"/>
 
