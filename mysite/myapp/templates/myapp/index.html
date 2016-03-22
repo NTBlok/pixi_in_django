@@ -1,0 +1,10 @@
+{% extends "myapp/base.html" %}
+{% load staticfiles %}
+
+
+{% block content %}
+<h1>Hello world.  This is my index view.</h1>
+    <script src="{% static 'myapp/js/pixi.js' %}"></script>
+    <script src="{% static 'myapp/js/basic.js' %}"></script>
+{% endblock %}
+
